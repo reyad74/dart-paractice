@@ -9,5 +9,7 @@ main(){
 
   }else if(a>85){
 
+  }else if(a<2850){
+
   }
 }
