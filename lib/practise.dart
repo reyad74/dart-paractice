@@ -7,5 +7,7 @@ main(){
   }
   else if(a<58){
 
+  }else if(a>85){
+
   }
 }
